@@ -24,12 +24,12 @@ Working through my T Level coursework — Python (pandas, matplotlib, cryptograp
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spect-ux&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Spect-ux&show_icons=true&theme=radical&hide_border=true" alt="" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spect-ux&theme=radical&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spect-ux&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spect-ux&layout=compact&theme=radical&hide_border=true" alt="" height="165"/>
 </p>
 
 <p align="left">
